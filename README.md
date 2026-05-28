@@ -12,7 +12,7 @@
 
 This project is a **REST API testing and bug analysis portfolio project** using the FakeStore API.
 
-It demonstrates real-world QA skills such as:
+It demonstrates real-world Manual Tester skills such as:
 - API functional testing
 - Negative testing
 - Bug identification and reporting
@@ -236,7 +236,7 @@ jobs:
 ## Author
 
 **Attila Tarnay**  
-QA Engineer | API Testing Portfolio Project
+Manual Tester | API Testing Portfolio Project
 
 ---
 
